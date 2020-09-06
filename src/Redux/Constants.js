@@ -1,0 +1,2 @@
+export const UPDATE_RACERS_LIST = 'UPDATE_RACERS_LIST';
+export const SET_RACES = 'SET_RACES';
